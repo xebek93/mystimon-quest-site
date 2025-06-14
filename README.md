@@ -15,6 +15,4 @@ Per avviare il progetto localmente:
 ```bash
 npm install
 npm run dev
-```
-
-## Sviluppato con ❤️ da AI
+``
